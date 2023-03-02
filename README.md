@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **SHWETA2JHA/SHWETA2JHA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![logo](https://github.com/SHWETA2JHA/SHWETA2JHA/blob/main/ShwetaJha.gif)
 <h1 align="center">Hi 👋, I'm Shweta Jha</h1>
 <h3 align="center">Computer Science undergrad and a cloud enthusiast.</h3>
-
 - 🔭 I’m currently working on **AWS and Azure with deployments using IaC tool Terraform**
 
 - 🌱 I’m currently learning **Terraform and cloud services.**
