@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--![logo](https://github.com/SHWETA2JHA/SHWETA2JHA/blob/main/ShwetaJha.gif)-->
-<img text-align="center" alt="shweta" width="900"  height="400" src="https://github.com/SHWETA2JHA/SHWETA2JHA/blob/main/ShwetaJha.gif">
+
 
 <h3 align="center">Computer Science undergrad and a cloud enthusiast.</h3>
 - 🔭 I’m currently working on **AWS and Azure with deployments using IaC tool Terraform**
